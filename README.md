@@ -21,6 +21,4 @@ A lightweight desktop tool to monitor real-time player activity in Demon's Souls
 - Python 3.7+
 - No external dependencies (uses only the Python standard library)
 
-## Screenshot
-
-*(Add a screenshot here of the application UI)*
+<img width="506" height="745" alt="maidens_eye_ss" src="https://github.com/user-attachments/assets/6a39fc22-6d6b-4dd3-8127-4f8241b1c432" />
